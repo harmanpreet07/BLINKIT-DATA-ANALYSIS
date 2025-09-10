@@ -62,9 +62,9 @@ Order details (date, location, quantity, revenue)
 
 📸 Dashboard Preview
 
-(## 📸 Dashboard Preview  
+## 📸 Dashboard Preview  
 ![Blinkit Dashboard](blinkit project data analysis/dashboard.png)
-)
+
 
 🚀 Project Workflow
 
