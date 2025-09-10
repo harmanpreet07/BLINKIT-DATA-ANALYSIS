@@ -1,3 +1,10 @@
+![Blinkit Dashboard](blinkit%20project%20data%20analysis/dashboard.png)
+
+
+
+
+
+
 📊 Blinkit Data Analysis Project
 
 
