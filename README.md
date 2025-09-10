@@ -1,7 +1,11 @@
 📊 Blinkit Data Analysis Project
+
+
 📌 Project Overview
 
 This project focuses on analyzing Blinkit (formerly Grofers) sales and operations data to extract meaningful insights about customer behavior, sales trends, and product performance. The goal is to identify key factors driving revenue, customer preferences, and business growth opportunities.
+
+
 
 🎯 Objectives
 
@@ -15,7 +19,12 @@ Explore trends in revenue and order volumes
 
 Provide data-driven recommendations for business growth
 
+
+
+
 🛠️ Tools & Technologies
+
+
 
 Python 🐍 (Pandas, NumPy, Matplotlib, Seaborn)
 
@@ -53,7 +62,9 @@ Order details (date, location, quantity, revenue)
 
 📸 Dashboard Preview
 
-(Insert screenshot of your Power BI / Tableau dashboard here)
+(## 📸 Dashboard Preview  
+![Blinkit Dashboard](/dashboard.png)
+)
 
 🚀 Project Workflow
 
