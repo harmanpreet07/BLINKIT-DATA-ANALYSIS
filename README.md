@@ -57,7 +57,7 @@ Order details (date, location, quantity, revenue)
 
 📊 Key Insights
 
-🥇 Top-selling product categories drive X% of total revenue
+🥇 Top-selling product categories drive  of total revenue
 
 📍 Region-wise analysis shows highest sales from [region]
 
