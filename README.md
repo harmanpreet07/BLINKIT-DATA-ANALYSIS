@@ -2,6 +2,10 @@
 
 
 
+![excel](https://github.com/harmanpreet07/BLINKIT-DATA-ANALYSIS/blob/main/excel%20dashboard.png)
+
+
+
 
 
 
